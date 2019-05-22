@@ -89,4 +89,4 @@ Throughout the course you will work with notebooks that contain various material
 
 
 
-<img src="./assets/logos.png" width="200">
+<img src="./assets/logos.png" width="600">
