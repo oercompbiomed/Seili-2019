@@ -24,23 +24,25 @@ Front. Oncol. 8:630. https://doi.org/10.3389/fonc.2018.00630 distributed under t
 
 ## Organization of your report
 
-### Research plan (3-5 pages incl. figures and bibliography)
-#### A brief background to the field
-#### Objectives and expected impact
-#### Material and methods
-#### Evaluation
+### Research plan 
+(3-5 pages incl. figures and bibliography)
+ - A brief background to the field
+ - Objectives and expected impact
+ - Material and methods
+ - Evaluation
 
-### Data management plan and ethical considerations (1 1/2-2 1/2 pages incl. graphics / links)
-#### Description of generated data and code
-#### Sharing of data and code
-#### Ethical consideration
+### Data management plan and ethical considerations 
+(1 1/2-2 1/2 pages incl. graphics / links)
+ - Description of generated data and code
+ - Sharing of data and code
+ - Ethical consideration
 
 
 ## Sources of information
 
 ### Prostate cancer
 
-
+$$
 \begin{center}
 \begin{itemize}
     \item \url{https://en.wikipedia.org/wiki/Prostate_cancer}
@@ -50,7 +52,7 @@ Front. Oncol. 8:630. https://doi.org/10.3389/fonc.2018.00630 distributed under t
     \item \url{https://www.science.gov/topicpages/c/cancer+gleason+score}
 \end{itemize}
 \end{center}
-
+$$
 
 ### Imaging
 
