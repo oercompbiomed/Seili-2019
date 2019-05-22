@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Data
+unsynceddata/
+
+# Mac OS
+.DS_Store
+
+# .md files
+*.md.save
+
+# my_*.ipynb files
+my_*.ipynb
+
+# Nilearn
+nilearn_cache
