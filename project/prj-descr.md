@@ -42,47 +42,36 @@ Front. Oncol. 8:630. https://doi.org/10.3389/fonc.2018.00630 distributed under t
 
 ### Prostate cancer
 
-$$
-\begin{center}
-\begin{itemize}
-    \item \url{https://en.wikipedia.org/wiki/Prostate_cancer}
-    \item \url{https://www.cancer.org/cancer/prostate-cancer}
-    \item \url{https://prostatecancerfree.org/prostate-cancer-videos}
-    \item \url{http://pathology.jhu.edu/ProstateCancer}
-    \item \url{https://www.science.gov/topicpages/c/cancer+gleason+score}
-\end{itemize}
-\end{center}
-$$
+https://en.wikipedia.org/wiki/Prostate_cancer <br>
+https://www.cancer.org/cancer/prostate-cancer <br>
+https://prostatecancerfree.org/prostate-cancer-videos <br>
+http://pathology.jhu.edu/ProstateCancer <br>
+https://www.science.gov/topicpages/c/cancer+gleason+score <br>
+
 
 ### Imaging
 
-\begin{center}
-\begin{itemize}
-    \item \url{https://prostatex.grand-challenge.org}
-    \item \url{https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Challenges}
-    \item \url{https://promise12.grand-challenge.org}
-    \item \url{https://www.aapm.org/GrandChallenge/PROSTATEx-2}
-    \item \url{https://wiki.cancerimagingarchive.net/display/Public/Prostate+Fused-MRI-Pathology}
-\end{itemize}
-\end{center}
+https://prostatex.grand-challenge.org <br>
+https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Challenges <br>
+https://promise12.grand-challenge.org <br>
+https://www.aapm.org/GrandChallenge/PROSTATEx-2 <br>
+https://wiki.cancerimagingarchive.net/display/Public/Prostate+Fused-MRI-Pathology <br>
+
 
 
 ###  Methods and code from the field of machine learning (incl radiomics, deep learning)
 
-\begin{center}
-\begin{itemize}
-    \item \url{https://github.com/oercompbiomed/CBM101}
-    \item \url{https://github.com/eiriniar/gleason_CNN}
-    \item \url{https://github.com/mirzaevinom/prostate_segmentation}
-    \item \url{https://ai.googleblog.com/2018/11/improved-grading-of-prostate-cancer.html}
-    \item \url{https://github.com/SlicerProstate/SliceTracker}
-    \item \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5703221}
-    \item \url{https://github.com/SlicerProstate/SliceTracker}
-    \item \url{https://github.com/anirudhtomer/prias}
-    \item \url{https://github.com/Wenyuan-Vincent-Li/Path_R_CNN}
-    \item \url{https://github.com/Radiomics/pyradiomics}
-\end{itemize}
-\end{center}
+https://github.com/oercompbiomed/CBM101 <br>
+https://github.com/eiriniar/gleason_CNN <br>
+https://github.com/mirzaevinom/prostate_segmentation <br>
+https://ai.googleblog.com/2018/11/improved-grading-of-prostate-cancer.html <br>
+https://github.com/SlicerProstate/SliceTracker <br>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5703221 <br>
+https://github.com/SlicerProstate/SliceTracker <br>
+https://github.com/anirudhtomer/prias <br>
+https://github.com/Wenyuan-Vincent-Li/Path_R_CNN <br>
+https://github.com/Radiomics/pyradiomics <br>
+
 
 
 
