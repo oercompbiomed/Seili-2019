@@ -42,7 +42,7 @@ Front. Oncol. 8:630. https://doi.org/10.3389/fonc.2018.00630 distributed under t
 
 ### Prostate cancer
 
-_Understanding Prostate Cancer_ - Coursera course (enroll for free - [syllabus](https://www.coursera.org/learn/prostate-cancer)) offered by Johns Hopkins University)<br>
+[_Understanding Prostate Cancer_](https://www.coursera.org/learn/prostate-cancer) - Coursera course (enroll for free) offered by Johns Hopkins University)<br>
 https://en.wikipedia.org/wiki/Prostate_cancer <br>
 https://www.cancer.org/cancer/prostate-cancer <br>
 https://prostatecancerfree.org/prostate-cancer-videos <br>
