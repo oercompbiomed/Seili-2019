@@ -1,9 +1,8 @@
-# Seili-2019
-### NordBioMedNet Summer School 2019 in Computational Biomedicine - Imaging, machine learning and precision medicine
+# NordBioMedNet Summer School 2019 in Computational Biomedicine - Imaging, machine learning and precision medicine
 
 ![Seili-2019 image](./assets/seili_2019.png)
 
-Seili-2019 is part of the "Open Educational Resources in Computational Biomedicine"* (OERCompBiomed) project conducted by the NordBioMed.org and funded by [Erasmus+](http://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/bc4e0bdb-aa64-4d5c-a7f2-26d68ec36647).
+`Seili-2019` is part of the "Open Educational Resources in Computational Biomedicine"* (OERCompBiomed) project conducted by the NordBioMed.org and funded by [Erasmus+](http://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/bc4e0bdb-aa64-4d5c-a7f2-26d68ec36647).
 
 NordBioMed is a collaborative network in the field of Biomedicine(*) between the Universities of Turku, Eastern Finland (Kuopio), Bergen, Odense and Karolinska Institutet. The network was originally formed in 2013 to strengthen the individual biomedical teaching programs within the component universities and make them internationally more competitive by providing complementary activities from the partner universities. The network supports both student and teacher mobility, organises intensive courses and develops virtual online teaching and an information platform on the [Open edX](https://open.edx.org/) platform, supported by a GitHub repository.
 Links that redirects to the study programme pages of each NordBioMed partner universities can be found [here](https://nordbiomed.org).
