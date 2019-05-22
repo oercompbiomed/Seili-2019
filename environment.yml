@@ -32,6 +32,7 @@ dependencies:
   - xlrd
   - nibabel
   - nilearn
+  - joblib
   - dipy
   - eli5
   - pdpbox
@@ -41,4 +42,3 @@ dependencies:
   - pyradiomics
   - fury
   - plotly
-  

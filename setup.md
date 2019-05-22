@@ -31,17 +31,17 @@ conda env update
 
 ### Activate the environment:
 ```bash
-conda activate seili
+conda activate Seili
 ```
 If you are using Linux or MacOS and the command above fails, type
 ```bash
 source ~/.bash_profile
 ```
-and try `conda activate seili` again. If this fails, activate the environment by typing `source activate seili` instead.
+and try `conda activate Seili` again. If this fails, activate the environment by typing `source activate Seili` instead.
 
 ### Install a Jupyter kernel:
 ```bash
-python -m ipykernel install --user --name seili --display-name "SEILI"
+python -m ipykernel install --user --name Seili --display-name "SEILI"
 ```
 
 ### Test you installation:
@@ -57,6 +57,6 @@ The code and environment will be updated during the course. Run the following co
 * Update code: `git pull`
 * Update environment:
 ```bash
-conda activate seili
+conda activate Seili
 conda env update
 ```
