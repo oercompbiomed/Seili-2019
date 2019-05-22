@@ -15,7 +15,7 @@ Links that redirects to the study programme pages of each NordBioMed partner uni
 
 Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsinki, reserve at least 3 hours to get to Turku by bus from the airport.
 
-•	At 17.45	Get together in Turku riverside (Östra Strandgatan 66), and boat transportation to Seili island (please contact Maritta Löytömäki, mailto:makrpy@utu.fiabout your travel plans)
+•	At 17.45	Get together in Turku riverside (Östra Strandgatan 66), and boat transportation to Seili island 
 
 •	Dinner at Seili
 
