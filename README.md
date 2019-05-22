@@ -102,3 +102,23 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 Around 13.00 Departure to Turku and light lunch on board
 
 Around 15:00 Arrival to Turku city centre and Goodbye!
+
+
+# Setting up your system
+
+**Follow the instructions at [Setting up your system](setup.md) (`setup.md`) to get ready**
+
+Note: To access the course notebooks interactively without downloading any software we are planning to use [Binder](https://mybinder.org), see also
+[BinderHub](https://github.com/jupyterhub/binderhub) and [try Jupyter without installing anything](https://jupyter.org/try)
+
+# Notebooks
+The course is based on the Jupyter Notebook, a web-based framework for developing and presenting code-based projects (take a look at https://youtu.be/HW29067qVWk og https://youtu.be/2eCHD6f_phE for introductions to Jupyter Notebooks).
+
+Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you *make a copy of our notebooks before you are editing them*. In this respect you might adopt the naming convention `my_[name_of_notebook].ipynb`.
+
+
+## Get started - test your environment
+* [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more](notebooks/0.0-test.ipynb): run through this notebook (`notebooks/0.0-test.ipynb`) to check that your environment is OK.<br>
+
+
+
