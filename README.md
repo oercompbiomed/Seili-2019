@@ -65,8 +65,10 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 **Friday, August 16**
 
 07:45-08:30	Breakfast<br>
-08:30-10:30	Student presentations with feedback 10:30-10:45	Coffee break<br>
-10:45-12:00	Student presentations with feedback 12:00-12:30	Check out and transport to boat<br>
+08:30-10:30	Student presentations with feedback <br>
+10:30-10:45	Coffee break<br>
+10:45-12:00	Student presentations with feedback <br>
+12:00-12:30	Check out and transport to boat<br>
 Around 13.00 Departure to Turku and light lunch on board<br>
 Around 15:00 Arrival to Turku city centre and Goodbye!<br>
 
@@ -88,5 +90,5 @@ Throughout the course you will work with notebooks that contain various material
 * [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more](notebooks/0.0-test.ipynb): run through this notebook (`notebooks/0.0-test.ipynb`) to check that your environment is OK.<br>
 
 
-
+SPONSORS<br>
 <img src="./assets/logos.png" width="500">
