@@ -16,6 +16,7 @@ dependencies:
 - conda-forge::statsmodels
 - conda-forge::biopython
 - conda-forge::graphviz
+- conda-forge::dcm2niix
 - scipy
 - seaborn
 - imageio
@@ -27,6 +28,7 @@ dependencies:
   - opencv-python
   - scikit-image
   - Pillow
+  - SimpleITK
   - networkx
   - pandas-profiling
   - xlrd
