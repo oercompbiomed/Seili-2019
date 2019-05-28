@@ -8,7 +8,7 @@ Copyright (c) 2019 OERCompBiomed
 ## Description
 Imagine that you are a group of established successful scientists that will team up to tackle an important biomedical and medical challenge. There is an open call for research proposals under a new umbrella program entitled “Artificial intelligence and computational (bio)medicine”, where your multidisciplinary group are aiming for a project on “Precision medicine and quantitative imaging in prostate cancer - a multiscale approach”.
 
-The focus of the assignment is (i) description of relevant imaging technologies and modalities - at different scales, (ii) proposal of imaging-derived biomarkers for PCa, (iii) machine learning techniques for classification, treatment stratification and prediction, (iv) the novelty and impact of your approach, and (v) the evaluation of the ethics of your project - and not so much the scientific background of prostate cancer per se.
+The focus of the assignment is **(i)** description of relevant imaging technologies and modalities - at different scales, **(ii)** proposal of imaging-derived biomarkers for PCa, **(iii)** machine learning techniques for classification, treatment stratification and prediction, **(iv)** the novelty and impact of your approach, and **(v)** the evaluation of the ethics of your project - and not so much the scientific background of prostate cancer per se.
 
 
 
