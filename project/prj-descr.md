@@ -16,10 +16,10 @@ The focus of the assignment is (i) description of relevant imaging technologies 
 
 
 
-Schema of a radiomic model for patients with PCa. Acquisition of pre-treatment PCa patient’s MR images; Regions of interest (i.e., subvolume $21 \times 21 \times 3$ voxels); Extraction of 41 radiomic features from ROIs; Feature significance analysis based on Spearman rank correlation and Kruskal-Wallis, and multivariate
+_Schema of a radiomic model for patients with PCa. Acquisition of pre-treatment PCa patient’s MR images; Regions of interest (i.e., subvolume $21 \times 21 \times 3$ voxels); Extraction of 41 radiomic features from ROIs; Feature significance analysis based on Spearman rank correlation and Kruskal-Wallis, and multivariate
 prediction of Gleason score groups using the random forest model. (Source: Chaddad A, Niazi T, Probst S, Bladou F, Anidjar M and Bahoric B (2018) Predicting Gleason Score of
 Prostate Cancer Patients Using Radiomic Analysis.
-Front. Oncol. 8:630. https://doi.org/10.3389/fonc.2018.00630 distributed under the terms of the Creative Commons Attribution License)}.
+Front. Oncol. 8:630. https://doi.org/10.3389/fonc.2018.00630 distributed under the terms of the Creative Commons Attribution License)._
 
 
 ## Organization of your report
