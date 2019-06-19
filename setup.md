@@ -28,7 +28,7 @@ conda install git
 ```
 ### Download the repository:
 ```bash
-git clone https://github.com/oerompbiomed/Seili-2019
+git clone https://github.com/oercompbiomed/Seili-2019
 cd Seili-2019
 ```
 ### Configure the Python-environment:
