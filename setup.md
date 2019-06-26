@@ -77,4 +77,4 @@ conda env update
 
 The course is based on the Jupyter Notebook, a web-based framework for developing and presenting code-based projects (take a look at https://youtu.be/HW29067qVWk og https://youtu.be/2eCHD6f_phE for introductions to Jupyter Notebooks).
 
-Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you _make a copy of our notebooks before you are editing them_. For the your own version of the notebook you might adopt the naming convention my_[name_of_notebook].ipynb. When running your notebook, remember to change the kernel to SEILI.
+Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you _make a copy of our notebooks before you are editing them_. For your own version of the notebook you might adopt the naming convention `my_[name_of_notebook].ipynb`. When running your notebook, remember to change the kernel to `SEILI`.
