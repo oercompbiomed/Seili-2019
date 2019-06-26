@@ -10,13 +10,13 @@ After the installation run `python --version` in a terminal window (in "Anaconda
 
 
 ## Atom:
-Atom is a free and open-source text and source code editor for writing and editing e.g. YAML configuration files, Markdown files, JSON files, HTML files and others. By its developers it is called a "hackable text editor for the 21st Century" and is a useful tool in addition to the browser-based Jupyter notebook that we will use. Install Atom (Mac Windows Linux) from: https://flight-manual.atom.io/getting-started/sections/installing-atom
+Atom is a free and open-source text and source code editor for writing and editing text files e.g. YAML configuration files, Markdown files, JSON files, HTML files and others. By its developers it is called a "hackable text editor for the 21st Century" and is a useful tool in addition to the browser-based Jupyter notebook that we will use. Install Atom (Mac Windows Linux) from: https://flight-manual.atom.io/getting-started/sections/installing-atom
 
 ## ITK-SNAP:
 ITK-SNAP is an open-source image analysis tool used to segment and label structures in 3D medical images. ITK-SNAP is supported on Mac, Windows and Linux and provides semi-automatic segmentation using active contour methods, as well as manual delineation and image navigation. You can read and interact with DICOM and NIFTI images, and plot time-course data. Download the newest release of ITK-SNAP at http://www.itksnap.org/pmwiki/pmwiki.php?n=Downloads.SNAP3
 
 ## GitHub:
-The course code is hosted on the code-sharing platform GitHub (where you now are reading this). If you do not have a GitHub account already you should make one now. We recommend that you are using the platform for you own projects during the course. https://github.com/join.
+The course code is hosted on the code-sharing platform GitHub (where you now are reading this). If you do not have a GitHub account already you should make one now. We recommend that you are using the platform for your own projects during the course. https://github.com/join.
 
 ## Install and test the course environment:
 
@@ -72,3 +72,9 @@ The code and environment will be updated during the course. Run the following co
 conda activate Seili
 conda env update
 ```
+
+### Note on Notebooks:
+
+The course is based on the Jupyter Notebook, a web-based framework for developing and presenting code-based projects (take a look at https://youtu.be/HW29067qVWk og https://youtu.be/2eCHD6f_phE for introductions to Jupyter Notebooks).
+
+Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you _make a copy of our notebooks before you are editing them_. For the your own version of the notebook you might adopt the naming convention my_[name_of_notebook].ipynb. When running your notebook, remember to change the kernel to SEILI.

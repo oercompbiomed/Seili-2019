@@ -24,14 +24,14 @@ Front. Oncol. 8:630. https://doi.org/10.3389/fonc.2018.00630 distributed under t
 
 ## Organization of your report
 
-### Research plan 
+### Research plan
 (3-5 pages incl. figures and bibliography)
  - A brief background to the field
  - Objectives and expected impact
  - Material and methods
  - Evaluation
 
-### Data management plan and ethical considerations 
+### Data management plan and ethical considerations
 (1 1/2-2 1/2 pages incl. graphics / links)
  - Description of generated data and code
  - Sharing of data and code
@@ -48,6 +48,7 @@ https://www.cancer.org/cancer/prostate-cancer <br>
 https://prostatecancerfree.org/prostate-cancer-videos <br>
 http://pathology.jhu.edu/ProstateCancer <br>
 https://www.science.gov/topicpages/c/cancer+gleason+score <br>
+https://www.ncbi.nlm.nih.gov/pubmed/31092914 <br>
 
 
 ### Imaging
@@ -57,6 +58,12 @@ https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Cha
 https://promise12.grand-challenge.org <br>
 https://www.aapm.org/GrandChallenge/PROSTATEx-2 <br>
 https://wiki.cancerimagingarchive.net/display/Public/Prostate+Fused-MRI-Pathology <br>
+https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.25419 <br>
+http://clincancerres.aacrjournals.org/content/22/11/2668.long <br>
+https://link.springer.com/article/10.1007%2Fs00330-019-06244-2 <br>
+https://link.springer.com/article/10.1007%2Fs13246-019-00730-z <br>
+https://www.nature.com/articles/s41598-018-38381-x <br>
+
 
 
 
@@ -72,7 +79,3 @@ https://github.com/SlicerProstate/SliceTracker <br>
 https://github.com/anirudhtomer/prias <br>
 https://github.com/Wenyuan-Vincent-Li/Path_R_CNN <br>
 https://github.com/Radiomics/pyradiomics <br>
-
-
-
-
