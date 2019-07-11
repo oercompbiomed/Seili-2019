@@ -87,7 +87,7 @@ Throughout the course you will work with notebooks that contain various material
 
 
 # Test your environment and Get started 
-**BEFORE** the Summer School
+**BEFORE** the Summer School:
 * [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more](notebooks/0.0-test.ipynb): run through this notebook (`notebooks/0.0-test.ipynb`) to check that your environment is OK.<br>
 
 * Go through the basic notebooks (*make a copy of our notebooks before you are editing them*):
@@ -97,7 +97,7 @@ Throughout the course you will work with notebooks that contain various material
   * [1.3-scikit-learn-basics](notebooks/1.0-scikit-learn-basics.ipynb) <br>
 
 
-________________________________________________________________________<br>
+__________________________________________________________________________<br>
 
 SPONSORS<br>
 <img src="./assets/logos.png" width="500">
