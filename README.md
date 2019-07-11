@@ -86,8 +86,14 @@ The course is based on the Jupyter Notebook, a web-based framework for developin
 Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you *make a copy of our notebooks before you are editing them*. In this respect you might adopt the naming convention `my_[name_of_notebook].ipynb`.
 
 
-## Get started - test your environment
+# Test your environment and Get started
 * [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more](notebooks/0.0-test.ipynb): run through this notebook (`notebooks/0.0-test.ipynb`) to check that your environment is OK.<br>
+
+* Go through the basic notebooks (*make a copy of our notebooks before you are editing them*):
+  * [1.0-python-basics](notebooks/1.0-python-basics.ipynb) 
+  * [1.1-numpy-basics](notebooks/1.0-numpy-basics.ipynb) 
+  * [1.2-pandas-basics](notebooks/1.0-pandas-basics.ipynb)
+  * [1.3-scikit-learn-basics](notebooks/1.0-scikit-learn-basics.ipynb)
 
 
 SPONSORS<br>
