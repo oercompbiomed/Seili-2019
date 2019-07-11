@@ -96,7 +96,7 @@ Throughout the course you will work with notebooks that contain various material
   * [1.3-scikit-learn-basics](notebooks/1.0-scikit-learn-basics.ipynb) <br>
 
 
-___________________<br>
+____________________________________________________________________<br>
 
 SPONSORS<br>
 <img src="./assets/logos.png" width="500">
