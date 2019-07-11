@@ -93,8 +93,10 @@ Throughout the course you will work with notebooks that contain various material
   * [1.0-python-basics](notebooks/1.0-python-basics.ipynb) 
   * [1.1-numpy-basics](notebooks/1.0-numpy-basics.ipynb) 
   * [1.2-pandas-basics](notebooks/1.0-pandas-basics.ipynb)
-  * [1.3-scikit-learn-basics](notebooks/1.0-scikit-learn-basics.ipynb)
+  * [1.3-scikit-learn-basics](notebooks/1.0-scikit-learn-basics.ipynb) <br>
 
+
+___________________<br>
 
 SPONSORS<br>
 <img src="./assets/logos.png" width="500">
