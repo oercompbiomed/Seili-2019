@@ -86,7 +86,8 @@ The course is based on the Jupyter Notebook, a web-based framework for developin
 Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you *make a copy of our notebooks before you are editing them*. In this respect you might adopt the naming convention `my_[name_of_notebook].ipynb`.
 
 
-# Test your environment and Get started (preferably befor the Summer School)
+# Test your environment and Get started <br>
+**(preferably befor the Summer School)**
 * [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more](notebooks/0.0-test.ipynb): run through this notebook (`notebooks/0.0-test.ipynb`) to check that your environment is OK.<br>
 
 * Go through the basic notebooks (*make a copy of our notebooks before you are editing them*):
