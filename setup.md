@@ -56,6 +56,12 @@ python -m ipykernel install --user --name Seili --display-name "SEILI"
 jupyter nbextension enable --py --sys-prefix widgetsnbextension
 ```
 
+### Optionally install Jupyter extensions:<br>
+These are useful to have nice tables of contents in the notebooks, but they are not required.
+```bash
+conda install -n Seili -c conda-forge jupyter_contrib_nbextensions
+```
+
 ### Test you installation:
 Go through the notebook `0.0-test.ipynb` in the `notebooks`-directory:
 ```bash
