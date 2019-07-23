@@ -17,6 +17,7 @@ dependencies:
 - conda-forge::biopython
 - conda-forge::graphviz
 - conda-forge::dcm2niix
+- conda-forge::nxviz
 - scipy
 - seaborn
 - imageio
