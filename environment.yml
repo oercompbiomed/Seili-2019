@@ -45,3 +45,6 @@ dependencies:
   - pyradiomics
   - fury
   - plotly
+  - tensorflow==2.0.0-beta1
+  - pydot
+  
