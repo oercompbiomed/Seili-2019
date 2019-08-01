@@ -27,14 +27,14 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 09:15-10:40	Bioimage informatics and machine learning (Pekka Ruusuvuori, Tampere University)<br>
 10:45-12:10	Prostate cancer - clinical aspects TITLE (Pekka Taimen, UTU, Turku)<br>
 12:15-13:15	Lunch<br>
-13:15-14:40	Review of pre-assignments - Jupyter notebooks on tools and data repositories (Arvid and yy)<br>
+13:15-14:40	Review of pre-assignments - Jupyter notebooks on tools and data repositories (Arvid Lundervold and Peder Lillebostad)<br>
 14:45-18:00	Student work with group project (coffee break 16:30-17:00)<br>
 19:00 -	Evening snack and Sauna
 
 **Tuesday, August 13**
 
 07:45-08:30	Breakfast<br>
-08:30-12:00	Workshop - image data analysis, e.g. using xx to analyse zz (Arvid and yy)<br>
+08:30-12:00	Workshop - image data analysis, e.g. using unsupervised classification (see [here]((notebooks/2.0-unsupervised-learning.ipynb)) and [here](notebooks/brain-mri-unsupervised-classification.ipynb)) to analyse prostate cancer (see [here](notebooks/prostate-mri-unsupervised-classification.ipynb)) (Arvid Lundervold and Peder Lillebostad)<br>
 12:00-13:00	Lunch<br>
 13:00-14:25	Prostate cancer – molecular mechanisms TITLE (Leena Latonen, UEF Kuopio)<br>
 14:30-15:25	Ethics and genetic screening (with a focus on cancer) (Niklas Juth, KI Stockholm)<br>
@@ -86,15 +86,22 @@ The course is based on the Jupyter Notebook, a web-based framework for developin
 Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you *make a copy of our notebooks before you are editing them*. In this respect you might adopt the naming convention `my_[name_of_notebook].ipynb`.
 
 
-# Test your environment and Get started 
+# Test your environment and Get started
 **BEFORE** the Summer School:
 * [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more](notebooks/0.0-test.ipynb): run through this notebook (`notebooks/0.0-test.ipynb`) to check that your environment is OK.<br>
 
 * Go through the basic notebooks (*make a copy of our notebooks before you are editing them*):
-  * [1.0-python-basics](notebooks/1.0-python-basics.ipynb) 
-  * [1.1-numpy-basics](notebooks/1.0-numpy-basics.ipynb) 
-  * [1.2-pandas-basics](notebooks/1.0-pandas-basics.ipynb)
-  * [1.3-scikit-learn-basics](notebooks/1.0-scikit-learn-basics.ipynb) <br>
+  * [1.0-python-basics](notebooks/1.0-python-basics.ipynb)
+  * [1.1-numpy-basics](notebooks/1.1-numpy-basics.ipynb)
+  * [1.2-pandas-basics](notebooks/1.2-pandas-basics.ipynb)
+  * [1.3-scikit-learn-basics](notebooks/1.3-scikit-learn-basics.ipynb) <br>
+
+  * [1.5-keras-basics](notebooks/1.5-keras-basics.ipynb) for intro to deep learning for object recognition in imaging using tf.keras <br>
+
+  * [1st_notebook_Network_graphs_students.ipynb](notebooks/1st_notebook_Network_graphs_students.ipynb) for intro to networks/graphs
+  * [2nd_notebook_Insulin_ego_protein_network.ipynb](notebooks/2nd_notebook_Insulin_ego_protein_network.ipynb) for intro to protein-protein  interaction networks <br>
+
+  * [2.0-unsupervised-learning.ipynb](notebooks/2.0-unsupervised-learning.ipynb) for introduction to clustering
 
 
 __________________________________________________________________________<br>
