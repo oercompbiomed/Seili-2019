@@ -93,7 +93,7 @@ Throughout the course you will work with notebooks that contain various material
 * Go through the basic notebooks (*make a copy of our notebooks before you are editing them*):
   * [1.0-python-basics](notebooks/1.0-python-basics.ipynb) for intro to **Python**
   * [1.1-numpy-basics](notebooks/1.1-numpy-basics.ipynb) for intro to **NumPy**
-  * [1.2-pandas-basics](notebooks/1.2-pandas-basics.ipynb) for intro to **Pandas** and **Matplotlib**
+  * [1.2-pandas-basics](notebooks/1.2-pandas-basics.ipynb) for intro to **Pandas** and **Matplotlib** / **Seaborn**
   * [1.3-scikit-learn-basics](notebooks/1.3-scikit-learn-basics.ipynb) for intro to **scikit-learn**
   * [1.5a-keras-basics-mnist](notebooks/1.5a-keras-basics-mnist.ipynb) for intro to deep learning and **Keras** using the MNIST data and `tf.keras`
   * [1.5b-keras-basics-fashion-mnist](notebooks/1.5b-keras-basics-fashion-mnist.ipynb) for intro to deep learning using Fashion-MNIST data, `tf.keras`, and `TensorBoard`
