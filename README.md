@@ -17,17 +17,17 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 
  - At 17.45	Get together in Turku riverside (Östra Strandgatan 66), and boat transportation to Seili island
  - Dinner at Seili
- - Welcome and presentation of the Summer School activities and projects (Lars-Arne Haldosen, KI Stockholm and Junior Mentors - names)
+ - Welcome and presentation of the Summer School activities and projects  (Lars-Arne Haldosen, KI Stockholm and Junior Mentors - Peder Lillebostad (UiB, Bergen), Elnfaz Fazeli, Olli Moisio and Maxwell Miner (UTU, Turku))
  - Check in and free time
 
 **Monday, August 12**
 
 07:45-08:30	Breakfast <br>
-08:30-09:15	Why are computational skills needed in biomedicine - relevance to uncovering disease mechanisms and for diagnostics (Arvid Lundervold, UIB, Bergen)<br>
+08:30-09:15	Why are computational skills needed in biomedicine - relevance to uncovering disease mechanisms and for diagnostics (Arvid Lundervold and Peder Lillebostad, UIB, Bergen)<br>
 09:15-10:40	Bioimage informatics and machine learning (Pekka Ruusuvuori, Tampere University)<br>
-10:45-12:10	Prostate cancer - clinical aspects TITLE (Pekka Taimen, UTU, Turku)<br>
+10:45-12:10	Prostate cancer - clinical aspects (Pekka Taimen, UTU, Turku)<br>
 12:15-13:15	Lunch<br>
-13:15-14:40	Review of pre-assignments - Jupyter notebooks on tools and data repositories (Arvid Lundervold and Peder Lillebostad)<br>
+13:15-14:40	Review of pre-assignments - Jupyter notebooks on tools and data repositories (Arvid Lundervold and Peder Lillebostad, UiB, Bergen)<br>
 14:45-18:00	Student work with group project (coffee break 16:30-17:00)<br>
 19:00 -	Evening snack and Sauna
 
@@ -36,7 +36,7 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 07:45-08:30	Breakfast<br>
 08:30-12:00	Workshop - image data analysis, e.g. using unsupervised classification (see [here](notebooks/2.0-unsupervised-learning.ipynb) and [here](notebooks/brain-mri-unsupervised-classification.ipynb)) to analyse prostate cancer (see [here](notebooks/prostate-mri-unsupervised-classification.ipynb)) (Arvid Lundervold and Peder Lillebostad)<br>
 12:00-13:00	Lunch<br>
-13:00-14:25	Prostate cancer – molecular mechanisms TITLE (Leena Latonen, UEF Kuopio)<br>
+13:00-14:25	Prostate cancer – molecular mechanisms (Leena Latonen, UEF Kuopio)<br>
 14:30-15:25	Ethics and genetic screening (with a focus on cancer) (Niklas Juth, KI Stockholm)<br>
 15:30-17:30	Workshop - ethics and genetics screening (16:00-16:30 Coffee break)<br>
 17:30-20:00	Student work with own project<br>
@@ -45,7 +45,7 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 **Wednesday, August 14**
 
 07:45-08:30	Breakfast<br>
-08:30-12:00	Follow up discussions on ethics workshop (Niklas Juth)<br>
+08:30-12:00	Follow up discussions on ethics workshop (Niklas Juth, KI Stockholm; Pasi Kankaanpää, UTU, Turku)<br>
 12:00-13:00	Lunch<br>
 13:00-14:00	Guided tour Seili<br>
 14:00-18:00	Student work with group project (Break 16:30-17:00 with snacks) Network meeting<br>
@@ -57,9 +57,9 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 08:30-10:25	Deep learning models to recognize tissue types (Bjarne Thorsted, SDU, Odense)<br>
 10:30-12:00	EuroBioimaging (Pasi Kankaanpää, UTU Turku)<br>
 12:00-13:00	Lunch<br>
-13:00-14:25	Career opportunities outside academia - companies in bioimage informatics – Aiforia, Helsinki (SPEAKER)<br>
-14:30-15:30	Career opportunities outside academia - companies in bioimage informatics – Misvik, Turku (SPEAKER)<br>
-15:30-18:00	Student work with group project (Coffee break 16:30-17:00) Network meeting<br>
+13:00-14:25	Career opportunities outside academia - companies in bioimage informatics – Anna Knuuttila, Aiforia, Helsinki<br>
+14:30-15:30	Career opportunities outside academia - companies in bioimage informatics – Juha Rantala, Misvik, Turku<br>
+15:30-18:00	Student work with group project (Coffee break 16:30-17:00) <br>
 19:00-	Summer school dinner<br>
 
 **Friday, August 16**
