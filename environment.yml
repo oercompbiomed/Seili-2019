@@ -41,7 +41,6 @@ dependencies:
   - pdpbox
   - wand
   - python-louvain
-  - pandas_ml
   - pyradiomics
   - fury
   - plotly
