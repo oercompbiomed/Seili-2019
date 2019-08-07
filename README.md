@@ -1,6 +1,7 @@
 # NordBioMedNet Summer School 2019 in Computational Biomedicine - Imaging, machine learning and precision medicine
 
-![Seili-2019 image](./assets/seili_2019.png) [Map](https://www.visitseili.fi/en/map) - [Webcam](https://www.visitseili.fi/en/webcam-and-weather/#pll_switcher) - [History](https://www.visitseili.fi/en/history)
+![Seili-2019 image](./assets/seili_2019.png) 
+**Seili**: [Map](https://www.visitseili.fi/en/map) - [Webcam](https://www.visitseili.fi/en/webcam-and-weather/#pll_switcher) - [History](https://www.visitseili.fi/en/history)
 
 
 `Seili-2019` is part of the "Open Educational Resources in Computational Biomedicine"* (OERCompBiomed) project conducted by the [NordBioMed.org](https://nordbiomed.org/news/summer-school-2019) and funded by [Erasmus+](http://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/bc4e0bdb-aa64-4d5c-a7f2-26d68ec36647).
