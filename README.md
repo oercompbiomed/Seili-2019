@@ -1,6 +1,8 @@
 # NordBioMedNet Summer School 2019 in Computational Biomedicine - Imaging, machine learning and precision medicine
 
-![Seili-2019 image](./assets/seili_2019.png)
+![Seili-2019 image](./assets/seili_2019.png) 
+**Seili**: [Map](https://www.visitseili.fi/en/map) - [Webcam](https://www.visitseili.fi/en/webcam-and-weather/#pll_switcher) - [History](https://www.visitseili.fi/en/history) - [Nature](https://www.visitseili.fi/en/nature)
+
 
 `Seili-2019` is part of the "Open Educational Resources in Computational Biomedicine"* (OERCompBiomed) project conducted by the [NordBioMed.org](https://nordbiomed.org/news/summer-school-2019) and funded by [Erasmus+](http://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/bc4e0bdb-aa64-4d5c-a7f2-26d68ec36647).
 
@@ -15,15 +17,15 @@ Links that redirects to the study programme pages of each NordBioMed partner uni
 
 Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsinki, reserve at least 3 hours to get to Turku by bus from the airport.
 
- - At 17.45	Get together in Turku riverside (Östra Strandgatan 66), and boat transportation to Seili island
+ - At 17.45	Get together in Turku riverside ([Östra Strandgatan 66](https://www.google.com/maps/place/It%C3%A4inen+Rantakatu+66,+20810+Turku,+Finland/@60.4392863,22.2435996,17z/data=!3m1!4b1!4m5!3m4!1s0x468c770743d1c15d:0xe54b5e21c7c1efd4!8m2!3d60.4392863!4d22.2457883)), and boat transportation to [Seili island](https://www.visitseili.fi/en/map)
  - Dinner at Seili
- - Welcome and presentation of the Summer School activities and projects  (Lars-Arne Haldosen, KI Stockholm and Junior Mentors - Peder Lillebostad (UiB, Bergen), Elnfaz Fazeli, Olli Moisio and Maxwell Miner (UTU, Turku))
+ - Welcome and presentation of the Summer School activities and projects  (Lars-Arne Haldosen, KI Stockholm and Junior Mentors - Peder Lillebostad, Sateshkumar (Sathiesh) Kaliyugarasan (UiB, Bergen), Elnfaz Fazeli, Olli Moisio, Maxwell Miner and Tatsiana Auchynnikava (UTU, Turku))
  - Check in and free time
 
 **Monday, August 12**
 
 07:45-08:30	Breakfast <br>
-08:30-09:15	Why are computational skills needed in biomedicine - relevance to uncovering disease mechanisms and for diagnostics (Arvid Lundervold and Peder Lillebostad, UIB, Bergen)<br>
+08:30-09:15	Why are computational skills needed in biomedicine - relevance to uncovering disease mechanisms and for diagnostics (Arvid Lundervold, UIB, Bergen)<br>
 09:15-10:40	Bioimage informatics and machine learning (Pekka Ruusuvuori, Tampere University)<br>
 10:45-12:10	Prostate cancer - clinical aspects (Pekka Taimen, UTU, Turku)<br>
 12:15-13:15	Lunch<br>
@@ -35,7 +37,8 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 
 07:45-08:30	Breakfast<br>
 08:30-11:00	Workshop - image data analysis, e.g. using unsupervised classification (see [here](notebooks/2.0-unsupervised-learning.ipynb) and [here](notebooks/brain-mri-unsupervised-classification.ipynb)) to analyse prostate cancer (see [here](notebooks/prostate-mri-unsupervised-classification.ipynb)) (Arvid, Peder and Sathiesh)<br>
-11:00-12:00	Guided tour Seili (Ilari Sääksjärvi)<br>
+11:00-12:00	Presentation [Seili Archipelago research institute](https://www.utu.fi/en/units/cerut/archipelago-research-institute/Pages/home.aspx), Ilari Sääksjärvi, 
+		Biodiversity unit, UTU, Turku and head of research station<br>
 12:00-13:00	Lunch<br>
 13:00-14:25	Prostate cancer – molecular mechanisms (Leena Latonen, UEF Kuopio)<br>
 14:30-15:25	Ethics and genetic screening (with a focus on cancer) (Niklas Juth, KI Stockholm)<br>
@@ -48,7 +51,8 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 07:45-08:30	Breakfast<br>
 08:30-12:00	Follow up discussions on ethics workshop (Niklas Juth, KI Stockholm; Pasi Kankaanpää, UTU, Turku)<br>
 12:00-13:00	Lunch<br>
-13:00-14:00	Workshop - image data analysis cont. (Arvid, Peder and Sahtiesh<br>
+13:00-14:00	Workshop - image data analysis cont. (Arvid Lundervold, Peder 
+		Lillebostad and Sathiesh Kaliyugarasan, UiB, Bergen)<br>
 14:00-18:00	Student work with group project (Break 16:30-17:00 with snacks) Network meeting<br>
 19:00 -	Evening snack and sauna<br>
 
@@ -58,7 +62,7 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 08:30-10:25	Deep learning models to recognize tissue types (Bjarne Thorsted, SDU, Odense)<br>
 10:30-12:00	EuroBioimaging (Pasi Kankaanpää, UTU Turku)<br>
 12:00-13:00	Lunch<br>
-13:00-14:25	Career opportunities outside academia - companies in bioimage informatics – Anna Knuuttila, Aiforia, Helsinki<br>
+13:00-14:25	Career opportunities outside academia - companies in bioimage informatics – Sami Blom, Aiforia, Helsinki<br>
 14:30-15:30	Career opportunities outside academia - companies in bioimage informatics – Juha Rantala, Misvik, Turku<br>
 15:30-18:00	Student work with group project (Coffee break 16:30-17:00) <br>
 19:00-	Summer school dinner<br>
