@@ -17,7 +17,7 @@ Links that redirects to the study programme pages of each NordBioMed partner uni
 
 Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsinki, reserve at least 3 hours to get to Turku by bus from the airport.
 
- - At 17.45	Get together in Turku riverside (Östra Strandgatan 66), and boat transportation to [Seili island](https://www.visitseili.fi/en/map)
+ - At 17.45	Get together in Turku riverside ([Östra Strandgatan 66](https://www.google.com/maps/place/It%C3%A4inen+Rantakatu+66,+20810+Turku,+Finland/@60.4392863,22.2435996,17z/data=!3m1!4b1!4m5!3m4!1s0x468c770743d1c15d:0xe54b5e21c7c1efd4!8m2!3d60.4392863!4d22.2457883), and boat transportation to [Seili island](https://www.visitseili.fi/en/map)
  - Dinner at Seili
  - Welcome and presentation of the Summer School activities and projects  (Lars-Arne Haldosen, KI Stockholm and Junior Mentors - Peder Lillebostad, Sahtiesh Kaliyugarasan (UiB, Bergen), Elnfaz Fazeli, Olli Moisio, Maxwell Miner and Tatsiana Auchynnikava (UTU, Turku))
  - Check in and free time
