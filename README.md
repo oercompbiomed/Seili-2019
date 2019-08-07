@@ -35,7 +35,7 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 
 07:45-08:30	Breakfast<br>
 08:30-11:00	Workshop - image data analysis, e.g. using unsupervised classification (see [here](notebooks/2.0-unsupervised-learning.ipynb) and [here](notebooks/brain-mri-unsupervised-classification.ipynb)) to analyse prostate cancer (see [here](notebooks/prostate-mri-unsupervised-classification.ipynb)) (Arvid, Peder and Sathiesh)<br>
-11:00-12:00	Guided tour Seili<br>
+11:00-12:00	Guided tour Seili (Ilari Sääksjärvi)<br>
 12:00-13:00	Lunch<br>
 13:00-14:25	Prostate cancer – molecular mechanisms (Leena Latonen, UEF Kuopio)<br>
 14:30-15:25	Ethics and genetic screening (with a focus on cancer) (Niklas Juth, KI Stockholm)<br>
