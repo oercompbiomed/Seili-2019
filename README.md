@@ -27,14 +27,15 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 09:15-10:40	Bioimage informatics and machine learning (Pekka Ruusuvuori, Tampere University)<br>
 10:45-12:10	Prostate cancer - clinical aspects (Pekka Taimen, UTU, Turku)<br>
 12:15-13:15	Lunch<br>
-13:15-14:40	Review of pre-assignments - Jupyter notebooks on tools and data repositories (Arvid Lundervold and Peder Lillebostad, UiB, Bergen)<br>
+13:15-14:40	Review of pre-assignments - Jupyter notebooks on tools and data repositories (Arvid Lundervold, Peder Lillebostad and Sahtiesh Kaliyugarasan, UiB, Bergen)<br>
 14:45-18:00	Student work with group project (coffee break 16:30-17:00)<br>
 19:00 -	Evening snack and Sauna
 
 **Tuesday, August 13**
 
 07:45-08:30	Breakfast<br>
-08:30-12:00	Workshop - image data analysis, e.g. using unsupervised classification (see [here](notebooks/2.0-unsupervised-learning.ipynb) and [here](notebooks/brain-mri-unsupervised-classification.ipynb)) to analyse prostate cancer (see [here](notebooks/prostate-mri-unsupervised-classification.ipynb)) (Arvid Lundervold and Peder Lillebostad)<br>
+08:30-11:00	Workshop - image data analysis, e.g. using unsupervised classification (see [here](notebooks/2.0-unsupervised-learning.ipynb) and [here](notebooks/brain-mri-unsupervised-classification.ipynb)) to analyse prostate cancer (see [here](notebooks/prostate-mri-unsupervised-classification.ipynb)) (Arvid, Peder and Sathiesh)<br>
+11:00-12:00	Guided tour Seili<br>
 12:00-13:00	Lunch<br>
 13:00-14:25	Prostate cancer – molecular mechanisms (Leena Latonen, UEF Kuopio)<br>
 14:30-15:25	Ethics and genetic screening (with a focus on cancer) (Niklas Juth, KI Stockholm)<br>
@@ -47,7 +48,7 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 07:45-08:30	Breakfast<br>
 08:30-12:00	Follow up discussions on ethics workshop (Niklas Juth, KI Stockholm; Pasi Kankaanpää, UTU, Turku)<br>
 12:00-13:00	Lunch<br>
-13:00-14:00	Guided tour Seili<br>
+13:00-14:00	Workshop - image data analysis cont. (Arvid, Peder and Sahtiesh<br>
 14:00-18:00	Student work with group project (Break 16:30-17:00 with snacks) Network meeting<br>
 19:00 -	Evening snack and sauna<br>
 
