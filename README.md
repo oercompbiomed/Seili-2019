@@ -25,7 +25,7 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 **Monday, August 12**
 
 07:45-08:30	Breakfast <br>
-08:30-09:15	Why are computational skills needed in biomedicine - relevance to uncovering disease mechanisms and for diagnostics (Arvid Lundervold, UIB, Bergen)<br>
+08:30-09:15	Why are computational skills needed in biomedicine - relevance to uncovering disease mechanisms and for diagnostics (Arvid Lundervold, UIB, Bergen) [[slides](https://docs.google.com/presentation/d/1srqlU0Kk3NlfTV91haD1pgaOm08VvSndPULtYaq3gQg/edit?usp=sharing)]<br>
 09:15-10:40	Bioimage informatics and machine learning (Pekka Ruusuvuori, Tampere University)<br>
 10:45-12:10	Prostate cancer - clinical aspects (Pekka Taimen, UTU, Turku)<br>
 12:15-13:15	Lunch<br>
