@@ -36,7 +36,7 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 **Tuesday, August 13**
 
 07:45-08:30	Breakfast<br>
-08:30-11:00	Workshop - image data analysis, e.g. using unsupervised classification (see [here](notebooks/2.0-unsupervised-learning.ipynb) and [here](notebooks/brain-mri-unsupervised-classification.ipynb)) to analyse prostate cancer (see [here](notebooks/prostate-mri-unsupervised-classification.ipynb)) (Arvid, Peder and Sathiesh)<br>
+08:30-11:00	Workshop - image data analysis, e.g. using unsupervised classification (see [here](notebooks/2.0-unsupervised-learning.ipynb) and [here](notebooks/brain-mri-unsupervised-classification.ipynb)) to analyse prostate cancer (see [here](notebooks/prostate-mri-unsupervised-classification.ipynb)) (Arvid, Peder and Sathiesh)<br> [[slides](https://docs.google.com/presentation/d/1E5YYcxXunRrD7DYPOGmIuihcDEKnaTzBI73tUOgyM8s/edit?usp=sharing)]
 11:00-12:00	Presentation [Seili Archipelago research institute](https://www.utu.fi/en/units/cerut/archipelago-research-institute/Pages/home.aspx), Ilari Sääksjärvi, 
 		Biodiversity unit, UTU, Turku and head of research station<br>
 12:00-13:00	Lunch<br>
