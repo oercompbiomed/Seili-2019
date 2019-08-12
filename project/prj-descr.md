@@ -79,3 +79,5 @@ https://github.com/SlicerProstate/SliceTracker <br>
 https://github.com/anirudhtomer/prias <br>
 https://github.com/Wenyuan-Vincent-Li/Path_R_CNN <br>
 https://github.com/Radiomics/pyradiomics <br>
+
+S.L. Goldenberg et al. A new era: artificial intelligence and machine learning in prostate cancer. _Nature Reviews Urology_ 2019;16:392-403 [[link](https://rdcu.be/bOyJk)]
