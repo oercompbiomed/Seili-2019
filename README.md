@@ -11,7 +11,7 @@ Links that redirects to the study programme pages of each NordBioMed partner uni
 
 
 
-## Summer School Programme (preliminary)
+## Summer School Programme (current)
 
 **Sunday, August 11**
 
