@@ -51,8 +51,8 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 07:45-08:30	Breakfast<br>
 08:30-12:00	Follow up discussions on ethics workshop (Niklas Juth, KI Stockholm; Pasi Kankaanpää, UTU, Turku)<br>
 12:00-13:00	Lunch<br>
-13:00-14:00	Workshop - image data analysis cont. (Arvid Lundervold, Peder 
-		Lillebostad and Sathiesh Kaliyugarasan, UiB, Bergen)<br>
+13:00-14:00	Workshop - image data analysis cont. Deep Learning with Tensorflow 2 / Keras and [MNIST](notebooks/1.5a-keras-basics-mnist.ipynb), [fashion-MNIST](notebooks/1.5b-keras-basics-fashion-mnist.ipynb) (Arvid Lundervold, Peder 
+		Lillebostad and Sathiesh Kaliyugarasan, UiB, Bergen) [slides]<br>
 14:00-18:00	Student work with group project (Break 16:30-17:00 with snacks) Network meeting<br>
 19:00 -	Evening snack and sauna<br>
 
