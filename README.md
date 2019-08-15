@@ -27,7 +27,7 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 07:45-08:30	Breakfast <br>
 08:30-09:15	Why are computational skills needed in biomedicine - relevance to uncovering disease mechanisms and for diagnostics (Arvid Lundervold, UIB, Bergen) [[slides](https://docs.google.com/presentation/d/1srqlU0Kk3NlfTV91haD1pgaOm08VvSndPULtYaq3gQg/edit?usp=sharing)]<br>
 09:15-10:40	Bioimage informatics and machine learning (Pekka Ruusuvuori, Tampere University)<br>
-10:45-12:10	Prostate cancer - clinical aspects (Pekka Taimen, UTU, Turku)<br>
+10:45-12:10	Prostate cancer - clinical aspects (Pekka Taimen, UTU, Turku) [[slides](./presentations/Summer_School_2019_Taimen_shared.pdf)]<br>
 12:15-13:15	Lunch<br>
 13:15-14:40	Review of pre-assignments - Jupyter notebooks on tools and data repositories (Arvid Lundervold, Peder Lillebostad and Sahtiesh Kaliyugarasan, UiB, Bergen)<br>
 14:45-18:00	Student work with group project (coffee break 16:30-17:00)<br>
@@ -59,7 +59,7 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 **Thursday, August 15**
 
 07:45-08:30	Breakfast<br>
-08:30-10:25	Deep learning models to recognize tissue types (Bjarne Thorsted, SDU, Odense)<br>
+08:30-10:25	Deep learning models to recognize tissue types (Bjarne Thorsted, SDU, Odense) [[slides](./presentations/'Deep Learning for Image Analysis.pptx')]<br>
 10:30-12:00	EuroBioimaging (Pasi Kankaanpää, UTU Turku)<br>
 12:00-13:00	Lunch<br>
 13:00-14:25	Career opportunities outside academia - companies in bioimage informatics – Sami Blom, Aiforia, Helsinki<br>
