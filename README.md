@@ -59,7 +59,7 @@ Arrival to Turku by plane, bus or train. NB! If you are planning to fly to Helsi
 **Thursday, August 15**
 
 07:45-08:30	Breakfast<br>
-08:30-10:25	Deep learning models to recognize tissue types (Bjarne Thorsted, SDU, Odense) [[slides]('./presentations/Deep Learning for Image Analysis.pptx')]<br>
+08:30-10:25	Deep learning models to recognize tissue types (Bjarne Thorsted, SDU, Odense) [[slides](./presentations/Deep Learning for Image Analysis.pptx)]<br>
 10:30-12:00	EuroBioimaging (Pasi Kankaanpää, UTU Turku)<br>
 12:00-13:00	Lunch<br>
 13:00-14:25	Career opportunities outside academia - companies in bioimage informatics – Sami Blom, Aiforia, Helsinki<br>
