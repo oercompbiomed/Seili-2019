@@ -45,6 +45,6 @@ dependencies:
   - fury
   - plotly
 #  - tensorflow==2.0.0-beta1
-  - tensorflow==2.0
+  - tensorflow
   - pydot
   
